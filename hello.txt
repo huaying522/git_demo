@@ -11,3 +11,4 @@ this is second edit
 isee you
 this is third edit
 test merge conflict master 
+121212121 hot-fix edit
